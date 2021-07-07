@@ -1,5 +1,5 @@
-# author:
-# date:
+# author: Tahlia Jones
+# date: July 7, 2021
 
 
 # --------------- Section 1 --------------- #
@@ -25,7 +25,12 @@
 # 1 is done for you.
 
 print('The absolute value of -15 is:', abs(-15))
-
+hex_num = hex(21)
+print('The hexadecimal value of 21 is:', hex_num)
+print('The variable holding the hexadecimal of value of 21 is:', id(hex_num))
+print('the function of 2 ^ 5:', pow(2, 5))
+print('the nearest integer of the number 3.75123 is:', int(4.0))
+print('The length of first name ans last name together is:', len('tahliajones'))
 
 # --------------- Section 2 --------------- #
 
@@ -44,6 +49,19 @@ print('The absolute value of -15 is:', abs(-15))
 #
 # WRITE CODE BELOW
 
+def name_name():
+    print('Tahlia')
+    print('Jones')
+
+def animal_names():
+    print('dogs')
+    print('cubs')
+    print('kittens')
+
+def number_names():
+    print(33)
+    print(99)
+    print(67)
 
 # 2 | Function Definitions with Parameters
 #
@@ -71,3 +89,10 @@ print('The absolute value of -15 is:', abs(-15))
 #   2 - For the 3rd function, save the return value to a variable and print it.
 #
 # WRITE CODE BELOW
+
+def cube(num):
+    print(num ** 3)
+cube(24)
+
+def sum(num):
+    print(num )

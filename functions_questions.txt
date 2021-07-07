@@ -1,21 +1,21 @@
-Name:
-Date:
+Name: Tahlia Jones
+Date: July 7, 2021
 
 1 - What is the return value of the len() function?
 
-
+ the length of the object
 
 2 - What is the return value of the print() function?
 
-
+ a string or a number on the console
 
 3 - Can a function be used in an operation or expression?
 
-
+yes
 
 4 - Are functions name case-sensitive?
 
-
+ yes
 
 5 - What are the 3 rules behind good names for variables and functions?
 
@@ -23,7 +23,7 @@ Date:
 
 6 - What is the keyword used to define a function?
 
-
+ def
 
 7 - What is name of the values used in a function call?
 
@@ -35,6 +35,7 @@ Date:
 
 9 - Are parameters variables?
 
+ are used to import arguments into functions
 
 10 - How do you return a value?
 
